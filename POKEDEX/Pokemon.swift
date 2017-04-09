@@ -13,11 +13,11 @@ class Pokemon {
     private var _name: String!
     private var _pokedexId: Int!
     
-    var name: String{
+    var name: String {
         return _name
     }
     
-    var pokedeId: Int{
+    var pokedexId: Int {
         return _pokedexId
     }
     
